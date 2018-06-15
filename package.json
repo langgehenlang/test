@@ -1,0 +1,38 @@
+{
+  "name": "youcanyin",
+  "version": "1.0.0",
+  "description": "html and restful api of youcanyin",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "koa",
+    "async"
+  ],
+  "author": "Lang Ge",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "dependencies": {
+    "mime": "1.3.4",
+    "mz": "2.4.0",
+    "log4js": "",
+    "config-lite": "2.0.0",
+    "nunjucks": "2.4.2",
+    "koa": "2.3.0",
+    "koa-bodyparser": "4.2.0",
+    "koa-mysql-session": "0.0.2",
+    "koa-router": "7.2.1",
+    "koa-session-minimal": "3.0.4",
+    "koa-static": "4.0.0",
+    "koa-static-cache": "5.1.1",
+    "koa-views": "6.0.2",
+    "markdown-it": "8.4.0",
+    "md5": "2.2.1",
+    "moment": "2.18.1",
+    "mysql": "2.13.0"
+  }
+}
